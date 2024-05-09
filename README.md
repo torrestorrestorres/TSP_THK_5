@@ -6,6 +6,7 @@
 - [x] Niclas Schößow
 - [x] Maximilian Goomer
 - [x] Tristan Wingert
+- [x] Random Dude
 
 ## TSP - Traveling Salesman Problem
 Das Problem des Handlungsreisenden (engl. Travelling Salesman Problem, TSP) ist ein kombinatorisches Optimierungsproblem.
@@ -57,10 +58,7 @@ Dabei sollen verschiedene Parameter des Verfahrens frei wählbar
 sein und die Auswirkungen verschiedener Einstellungen untersucht werden.
 
 
-
-
 ## Testinstanzen
-
 Die Testinstanzen sind im Ordner [`data`](./data) zu finden. 
 Die Instanzen sind im TSPLIB-Format gespeichert.
 [TSPLIB](http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/)
@@ -70,10 +68,19 @@ Die Instanzen sind im TSPLIB-Format gespeichert.
 
 ### Verwendete Testinstanzen
 - [x] [a280]() --> EUC_2D 
-- [x] [blabla]()
+- [x] [att48]() -- > EUC_2D
 
 
 ### Verwendete Repräsentation
-  
+
+- [x] Permutation
 
 ### Verwendete Variationsoperatoren
+
+- [x] PopulationSize
+- [x] Generations
+- [x] TournamentSize
+- [x] MutationRate
+
+
+

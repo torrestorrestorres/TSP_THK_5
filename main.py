@@ -197,13 +197,15 @@ def do_evolution(population, cities, tournament_size, mutation_rate):
 def main():
     start_time = time.time()
 
-    # ------Variables------ #
+    # ------TestInstances------ #
 
     # cityfile = "a280.tsp"
     cityfile = "att48.tsp"
 
     # Read in the cities from the file
     cities = get_cities(cityfile)
+
+    # ------Variables------ #
 
     # Create the initial population
     population_size = 100
