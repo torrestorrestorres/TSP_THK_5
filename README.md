@@ -67,8 +67,8 @@ Die Instanzen sind im TSPLIB-Format gespeichert.
 ## Implementierung
 
 ### Verwendete Testinstanzen
-- [x] [a280]() --> EUC_2D 
-- [x] [att48]() -- > EUC_2D
+- [x] [a280](data/a280.tsp) --> EUC_2D 
+- [x] [att48](data/att48.tsp) -- > EUC_2D
 
 
 ### Verwendete Repräsentation
