@@ -31,7 +31,7 @@ Eine Permutation ist eine Anordnung von Objekten in einer bestimmten Reihenfolge
 * Anzahl von Schritten begrenzt (häufig vorher festgelegt)
 * Führen Exploration und Exploitation durch
 
-  #### Bausteine
+#### Bausteine
 * **Repräsentation**: Permutation
 * **Variationsoperatoren**: Mutation, Rekombination
 * **Relation zwischen Lösungen**: → Zielfunktion
@@ -69,11 +69,11 @@ Die Instanzen sind im TSPLIB-Format gespeichert.
 ## Implementierung
 
 ### Verwendete Testinstanzen
-- [x] [blabla]()
+- [x] [a280]() --> EUC_2D 
 - [x] [blabla]()
 
 
 ### Verwendete Repräsentation
-
+  
 
 ### Verwendete Variationsoperatoren
